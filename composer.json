@@ -1,0 +1,16 @@
+{
+    "name": "destiny/mvc",
+    "description": "php mvc framework",
+    "authors": [
+        {
+            "name": "Sunday Destiny",
+            "email": "destinyjuniorsdj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
